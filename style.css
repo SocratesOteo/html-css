@@ -1,0 +1,14 @@
+h1 {
+    position: relative; 
+    left: 350px;
+    font-family: 'Shizuru', cursive;
+   
+}
+
+div {
+    background-color: #daba54;
+    background-size: auto;
+}
+body{
+    background-color: #daba54;
+}
